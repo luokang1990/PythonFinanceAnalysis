@@ -21,3 +21,7 @@ learn  python金融大数据分析
 5、conda remove --dry-run -n python34 scipy 删除环境python34中的scipy包，并显示过程。
 
 6、conda remove --all -n python34 删除环境python34
+
+二、ipython 的命令
+
+1、%lsmagic 显示所有的魔法命令
