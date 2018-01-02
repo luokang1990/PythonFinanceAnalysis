@@ -17,3 +17,5 @@ learn  python金融大数据分析
 3、conda list ^pyt   列出以‘pyt’开始的所有软件包
 
 4、conda info -e 查看已安装的环境
+
+5、conda remove --dry-run -n python34 scipy 删除环境python34中的scipy包，并显示过程。
